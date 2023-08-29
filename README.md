@@ -54,6 +54,16 @@ MZ세대를 공략하기 위한 전통시장 정보 제공 어플
 <img src="https://github.com/Capstone23-1/MarketGo/assets/62399318/d797485a-93aa-4028-8090-9a08fdf6ab4a">
 </p>
 
+## 앱 실행 화면
+<img width="1053" alt="image" src="https://github.com/JooHyeonKim/MarketGo/assets/56497471/94466b2d-d867-4f11-b4e4-98cd2ead62d7">
+<img width="1072" alt="image" src="https://github.com/JooHyeonKim/MarketGo/assets/56497471/70a12391-7bfb-4337-bd7e-20102027f979">
+<img width="1067" alt="image" src="https://github.com/JooHyeonKim/MarketGo/assets/56497471/4f13fd0a-7973-4a38-be9e-e570d29068a0">
+<img width="1070" alt="image" src="https://github.com/JooHyeonKim/MarketGo/assets/56497471/c05fbf78-2292-4468-887f-b6405aba4dfc">
+<img width="1064" alt="image" src="https://github.com/JooHyeonKim/MarketGo/assets/56497471/bc07eda6-3a1a-48b6-b122-981ece90f828">
+<img width="1070" alt="image" src="https://github.com/JooHyeonKim/MarketGo/assets/56497471/98ec85e1-c555-461b-8eca-017b87395af4">
+
+
+
 ## 전체 시연영상
 [![Video Label](http://img.youtube.com/vi/jveA3WigiWs/0.jpg)](https://youtu.be/jveA3WigiWs)
 
