@@ -48,11 +48,6 @@ MZ세대를 공략하기 위한 전통시장 정보 제공 어플
 <img src="https://github.com/Capstone23-1/MarketGo/assets/62399318/7a49a5b3-37b5-4c4a-816c-ea9f4397a9f7">
 </p>
 
-### 회원가입
-
-<p align="left">
-<img src="https://github.com/Capstone23-1/MarketGo/assets/62399318/d797485a-93aa-4028-8090-9a08fdf6ab4a">
-</p>
 
 ## 앱 실행 화면
 <img width="1053" alt="image" src="https://github.com/JooHyeonKim/MarketGo/assets/56497471/94466b2d-d867-4f11-b4e4-98cd2ead62d7">
